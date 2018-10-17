@@ -1,5 +1,5 @@
 /**
-* File: is_an_A.cpp
+* File: is_letter_a.cpp
 * Dev: Matthew Herrera
 * Email: herreram81266@student.vvc.edu
 * Date: Tue Oct 16 18:38:07 PDT 2018
